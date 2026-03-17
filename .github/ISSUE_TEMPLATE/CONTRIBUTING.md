@@ -41,8 +41,6 @@ Before creating bug reports, please check the existing issues as you might find 
 
 Unsure where to begin contributing to Getting stated with Ruby ? You can start by looking through `good-first-issue` issues:
 
-[Link to GitHub issues labeled "good first issue"](https://github.com/[username]/[repo]/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
-
 ### Pull Requests
 
 1.  **Fork** the repo on GitHub.
