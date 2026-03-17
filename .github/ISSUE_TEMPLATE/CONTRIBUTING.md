@@ -17,7 +17,7 @@ The following is a set of guidelines for contributing to Getting started with Ru
 
 ## Code of Conduct
 
-By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md). Please uphold this code in all your interactions.
+By participating in this project, you agree to abide by our [Code of Conduct](https://github.com/cedec1985/Ruby/blob/main/.github/ISSUE_TEMPLATE/CODE_OF_CONDUCT.md). Please uphold this code in all your interactions.
 
 ## How Can I Contribute?
 
