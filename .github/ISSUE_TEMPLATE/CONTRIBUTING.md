@@ -33,7 +33,7 @@ Before creating bug reports, please check the existing issues as you might find 
 
 ### Suggesting Enhancements
 
-*   Open an [issue](https://github.com/[username]/[repo]/issues/new) with a description of the enhancement.
+*   Open an [issue](https://github.com/cedec1985/Ruby/blob/main/.github/ISSUE_TEMPLATE/bug_report.md) with a description of the enhancement.
 *   Provide a **clear and detailed explanation** of the suggested enhancement.
 *   Explain why the enhancement would be useful to most Getting started with Ruby users.
 
